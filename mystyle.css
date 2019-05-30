@@ -91,8 +91,6 @@ aside{
 
 body{
     background-color: lightblue;
-    /*background-image: url("./media/Ink Cloud.jpg");*/
-    /*background-size: cover;*/
 }
 
 
@@ -106,11 +104,6 @@ body{
     float: right;
     width: auto;
     right: 3%;
-}
-
-.pic{
-    object-fit: cover;
-    box-shadow: 10px 10px 5px grey;
 }
 
 .innerBorderLeft{
@@ -155,10 +148,6 @@ body{
     font-family: 'Amiri';
     text-align: left;
 
-}
-
-#test12{
-    font-size: 30px;
 }
 
 .textLeftTop{
@@ -236,13 +225,8 @@ body{
     /*border: 2px solid red;*/
     height: 300px;
 }
-/****Pictures**********/
-#picTest {
-    text-align: center;
-    color: #D8D8D8;
-    font-size: 35px;
-}
 
+/****Pictures**********/
 #videoPicTab{
     top: 60px;
     position: relative;
@@ -260,13 +244,6 @@ body{
     margin: 10px;
 }
 
-.testSome{
-    /*background: #424242;*/
-    text-align: center;
-    padding: 10px;
-    position: relative;
-}
-
 .columnInsta {
     top: 35px;
     position: relative;
@@ -274,12 +251,6 @@ body{
     flex-basis: 35%;
     left: 15%;
     vertical-align: center;
-}
-
-.youtubeSocial{
-    text-align: center;
-    position: relative;
-    top: 20px;
 }
 
 /****About**********/
